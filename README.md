@@ -1,3 +1,4 @@
 # please read this
-create video_files directory
+to use create video_files directory
+then
 execute sql file located in this directory
